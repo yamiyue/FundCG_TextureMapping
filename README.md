@@ -1,1 +1,1 @@
-# -FundCG_TextureMapping
+# FundCG_TextureMapping

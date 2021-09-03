@@ -20,6 +20,8 @@ Control the character to destroy the boxes and collect the apples.
 
 ### Picking faces
 
+Use `gluUnProject` to 
+
 ### Patch parameterizing
 
 

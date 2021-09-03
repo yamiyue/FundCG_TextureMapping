@@ -20,10 +20,13 @@ Control the character to destroy the boxes and collect the apples.
 
 ### Picking faces
 
-Use `gluUnProject` to 
+Use `gluUnProject` to select the face we want. Use these faces to create a new mesh.
+![pick faces](https://user-images.githubusercontent.com/36958393/131991147-85af3667-f811-4e70-8a62-d660e2f797c2.jpg)
 
-### Patch parameterizing
+### Mesh parameterizing
 
+Calculating the uv of the new mesh.
+![para](https://user-images.githubusercontent.com/36958393/131991167-270961d1-78bd-4ee1-9763-80f77655d185.jpg)
 
 ### Shaders
 
@@ -35,3 +38,5 @@ Use `gluUnProject` to
   three.js https://threejs.org/examples/?q=lava#webgl_shader_lava
 
 ## Demo
+https://youtu.be/mJkwdZXGfYo
+![demo](https://user-images.githubusercontent.com/36958393/131991544-92150454-4f6c-49c6-9eef-fb43487211ef.jpg)

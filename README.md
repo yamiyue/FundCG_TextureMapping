@@ -26,7 +26,7 @@ Use `gluUnProject` to select the face we want. Use these faces to create a new m
 
 ### Mesh parameterizing
 
-Calculating the uv of the new mesh.
+ Use Mean Value Coordinates(M. S. Floater [2003]) to calculate the uv of the new mesh.
 
 ![para](https://user-images.githubusercontent.com/36958393/131991167-270961d1-78bd-4ee1-9763-80f77655d185.jpg)
 
